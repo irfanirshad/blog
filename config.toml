@@ -1,3 +1,4 @@
+canonifyURLs = true
 baseurl = "https://irfanirshad.github.io/blog/"
 languageCode = "en"
 defaultContentLanguage = "en"
