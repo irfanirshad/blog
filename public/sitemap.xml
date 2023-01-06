@@ -2,12 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/posts/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>/posts/samplepost/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>/tags/chrome-extension/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
+  </url><url>
+    <loc>/tags/clojurescript/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
+  </url><url>
+    <loc>/categories/eng/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
+  </url><url>
+    <loc>/tags/figwheel-main/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-01-12T23:54:31+08:00</lastmod>
   </url>
 </urlset>

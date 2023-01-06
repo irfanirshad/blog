@@ -13,7 +13,7 @@ author: Irfan
 #   - tag1
 #   - tag2
 # nolastmod: true
-draft: true
+draft: false
 ---
 
 Cut out summary from your post content here.22
@@ -21,11 +21,11 @@ Cut out summary from your post content here.22
 <!--more-->
 
 The remaining content of your post.2
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of 
+The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of
 
 
 your post.The remaining content of your post.The remaining content of your post.
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The 
+The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The
 
 remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
 

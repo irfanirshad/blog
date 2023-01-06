@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>archive on Irfan&#39;s blog</title>
-    <link>/posts/</link>
-    <description>Recent content in archive on Irfan&#39;s blog</description>
+    <title>ENG on Irfan&#39;s blog</title>
+    <link>/categories/eng/</link>
+    <description>Recent content in ENG on Irfan&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work adopts &lt;a rel=&#34;license&#34; href=&#34; Licensed under the http://creativecommons.org/licenses/by-nc-sa/4.0/&#34;&gt;Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License&lt;/a&gt;</copyright>
-    <lastBuildDate>Tue, 12 Jan 2021 23:54:31 +0800</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 23:54:31 +0800</lastBuildDate><atom:link href="/categories/eng/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Build a Chrome Extension with Figwheel Main</title>
       <link>/posts/samplepost/</link>

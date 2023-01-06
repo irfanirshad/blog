@@ -7,7 +7,7 @@
     <title>404 Not Found | Irfan&#39;s blog</title>
 
     
-<link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="./favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
 
 
@@ -19,29 +19,29 @@
 
 <meta name="generator" content="Hugo 0.101.0" />
 
-<link rel="canonical" href="https://example.com/404.html" />
+<link rel="canonical" href="./404.html" />
 
 
 <meta property="og:title" content="404 Page not found" />
 <meta property="og:description" content="Irfan&#39;s Blog" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://example.com/404.html" /><meta property="og:image" content="https://example.com"/>
+<meta property="og:url" content="/404.html" /><meta property="og:image" content=""/>
 
 
 
 
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://example.com"/>
+<meta name="twitter:image" content=""/>
 
 <meta name="twitter:title" content="404 Page not found"/>
 <meta name="twitter:description" content="Irfan&#39;s Blog"/>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" integrity="sha256-UXesixbeLkB/UYxVTzuj/gg3+LMzgwAmg3zD+C4ZASQ=" crossorigin="anonymous">
-<link rel="stylesheet" href="/css/icomoon.css" />
+<link rel="stylesheet" href="./css/icomoon.css" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/overlayscrollbars@1.13.1/css/OverlayScrollbars.min.css" integrity="sha256-WKijf8KI68sbq8Znd6yMepIuFF0wdWfIt6gk3JWcQfk=" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css">
-<link rel="stylesheet" href="/css/site.css" />
+<link rel="stylesheet" href="./css/site.css" />
 
 <style>
   .ui.header a:not(.item, .ui.button):hover {
@@ -75,7 +75,7 @@
   
   body.dark {
     
-    background-color: grey;
+    background-color: #333;
     
 
     
@@ -89,7 +89,7 @@
      
 
     
-    <link rel="stylesheet" href="/css/custom.css" />
+    <link rel="stylesheet" href="./css/custom.css" />
     
   </head>
 
@@ -102,7 +102,7 @@
     <i class="large link bullseye icon"></i>
   </a>
   
-  <a class="item" href="https://example.com" title="Home">
+  <a class="item" href="" title="Home">
     <i class="large link home icon"></i>
   </a>
   
@@ -130,7 +130,7 @@
         <span class="sub header">Don't worry though, click the button below to wake up.</span>
       </h1>
       <p>
-        <button class="ui secondary button" onclick="window.location.href = 'https:\/\/example.com'">Back to home</button>
+        <button class="ui secondary button" onclick="window.location.href = ''">Back to home</button>
       </p>
     
   </div>
@@ -139,10 +139,10 @@
 
             <footer class="ui basic center aligned segment" style="background-color: transparent;">
               
-              <p>© 2019 - 2022 Irfan&#39;s blog</p>
+              <p>© 2019 - 2023 Irfan&#39;s blog</p>
               
 
-              <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a></p>
+              <p>Powered by <a href="https://gohugo.io/" target="_blank">Hugo</a> </p>
 
               
               <p>The End?</p>
@@ -155,7 +155,7 @@
             <header class="ui basic very padded segment dream-header">
   
   <div class="ui small circular image">
-    <img src="/img/avatar.jpeg" alt="avatar" />
+    <img src="./img/avatar.jpeg" alt="avatar" />
   </div>
   
 
@@ -165,13 +165,58 @@
 
     <article class="ui horizontal list">
       
-      <a class="item" href="/categories">
+      <a class="item" href="./posts">
+        <i class="archive icon" title="Archives"></i>
+      </a>
+      
+      <a class="item" href="./categories">
         <i class="th list icon" title="All Categories"></i>
       </a>
-      <a class="item" href="/tags">
+      <a class="item" href="./tags">
         <i class="tags icon" title="All Tags"></i>
       </a>
     </article>
+
+    
+    
+    
+    
+    
+      
+    
+      
+    
+      
+    
+    
+
+    
+
+    
+    
+    
+          <div class="dream-tags">
+          
+          
+          
+            <a class="ui label" href="./tags/chrome-extension/" title="Chrome Extension">
+              Chrome Extension
+            </a>
+          
+          
+          
+            <a class="ui label" href="./tags/clojurescript/" title="ClojureScript">
+              ClojureScript
+            </a>
+          
+          
+          
+            <a class="ui label" href="./tags/figwheel-main/" title="Figwheel Main">
+              Figwheel Main
+            </a>
+          
+          </div>
+    
 
     
   </div>
@@ -203,7 +248,7 @@
         <div class="ui medium header">Social Links</div>
         <nav class="ui secondary menu dream-menu dream-socials">
   
-  <a class="item" href="/index.xml">
+  <a class="item" href="./index.xml">
     <i class="large rss square icon" title="RSS"></i>
   </a>
   
@@ -271,7 +316,7 @@
 </div>
 <script>
   $(document).ready(function () {
-    $.getJSON('https:\/\/example.com/index.json', function (data) {
+    $.getJSON('/index.json', function (data) {
       $('.ui.search').search({
         source: data,
         searchFields: ['title'],
@@ -280,7 +325,7 @@
     })
   })
 </script>
-<script src="/js/search.js"></script>
+<script src="./js/search.js"></script>
 
     
 
@@ -288,13 +333,13 @@
 
     <script>
   window.background = "#f7f7f7"
-  window.defaultDark =  true 
-  window.backgroundDark = "grey"
+  window.defaultDark =  null 
+  window.backgroundDark = "#333"
   window.backgroundImageDark = "/img/bg_night.jpg"
-  window.darkNav =  true 
+  window.darkNav =  null 
   window.maxTags =  null 
   window.hasTwitterEmbed =  null 
-  window.fixedNav =  null 
+  window.fixedNav =  true 
 
   if (window.hasTwitterEmbed) {
     
@@ -318,9 +363,9 @@
   }
 </script>
 <script src="https://cdn.jsdelivr.net/npm/overlayscrollbars@1.13.1/js/jquery.overlayScrollbars.min.js" integrity="sha256-tBd38uWlvgfps3zHPrUb2ePBg+Z8EjMf0QloFONzpvU=" crossorigin="anonymous"></script>
-<script src="/js/header.js"></script>
-<script src="/js/main.js"></script>
-<script src="/js/theme.js"></script>
+<script src="./js/header.js"></script>
+<script src="./js/main.js"></script>
+<script src="./js/theme.js"></script>
 
      
 
