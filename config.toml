@@ -1,0 +1,100 @@
+baseurl = "https://example.com"
+languageCode = "en"
+defaultContentLanguage = "en"
+title = "Irfan's blog"
+theme = "dream"
+
+ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work adopts <a rel="license" href=" Licensed under the http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>'
+
+# googleAnalytics = ""
+
+#disqusShortname = "irfanirshad"
+
+#enableGitInfo = true
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+background = "#f7f7f7"
+backgroundImage = "/img/bg.jpg"
+linkColor = "seagreen"
+enableSearch = true
+
+# dark mode
+#defaultDark = true
+backgroundDark = "#333"
+backgroundImageDark = "/img/bg_night.jpg"
+darkLinkColor = "darkseagreen"
+#darkNav = true
+#dark404 = true
+
+images = [""]
+
+author = "IrfanIrshad"
+description = "Irfan's Blog"
+avatar = "/img/avatar.jpeg"
+headerTitle = "Irfan's blog"
+motto = "Balance in all things"
+# maxTags = 5
+# categoriesLimitInHeader = 6 # deprecated
+# headerBottomText = "" # deprecated
+
+footerBottomText = "The End?"
+
+rss = true
+
+# utterancesRepo = ""
+
+# valine = true
+# LEANCLOUD_APP_ID = ""
+# LEANCLOUD_APP_KEY = ""
+# VALINE_LANGUAGE = ""
+
+email = "irfanirshad003@gmail.com"
+# twitter = ""
+# facebook = ""
+# instagram = ""
+# mastodon = ""
+# linkedin = ""
+github = "irfanirshad"
+# stackoverflow = ""
+# codepen = ""
+
+siteStartYear = 2019
+
+favicon = "/favicon.ico"
+
+highlightjs = true
+#highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+highlightjsExtraLanguages = ["clojure","ocaml"]
+highlightjsTheme = "tomorrow"
+highlightjsThemeDark = "tomorrow-night"
+
+# search
+#enableSearch = true
+
+# options
+showSummaryCoverInPost = true
+# hasTwitterEmbed = true
+# reversePostAndAside = true
+# shareInAside = true
+ fixedNav = true
+ transparentNav = true
+# collapsibleTags = true
+# collapseBySummary = true
+# disableFlip = true
+# hideBackSocialLinks = true
+
+[params.advanced]
+    customCSS = ["css/custom.css"]
+  #   customJSBefore = []
+  #   customJS = []
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
