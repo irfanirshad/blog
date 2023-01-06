@@ -1,5 +1,5 @@
 canonifyURLs = true
-baseurl = "https://irfanirshad.github.io/blog/"
+baseurl = ""
 relativeURLs = "True"
 languageCode = "en"
 defaultContentLanguage = "en"
