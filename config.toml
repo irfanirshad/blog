@@ -36,7 +36,7 @@ images = [""]
 
 author = "IrfanIrshad"
 description = "Irfan's Blog"
-avatar = "/img/avatar.jpeg"
+avatar = "/img/ss.jpeg"
 headerTitle = "Irfan's blog"
 motto = "Balance in all things"
 # maxTags = 5
