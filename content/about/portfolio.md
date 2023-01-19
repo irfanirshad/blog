@@ -6,11 +6,8 @@ draft: false
 type : "page"
 ---
 
-Hi, click the <a href="/posts/portfolio/">link</a> below to take a look at some of my work. 
+_Hi, click the <a href="/posts/portfolio/">link</a> below to take a look at some of my work_.
 
-
-<br/>
-<a href="/others/irfan_irshad_2023.pdf">My resume</a>
+<a href="/others/irfan_irshad_2023.pdf" target="_blank">My resume</a>
 <!--more-->
 
-The remaining content of your post.

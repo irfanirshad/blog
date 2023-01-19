@@ -3,6 +3,7 @@ title: search1
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
 author: Irfan
+avatar: /img/ss.jpeg
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 # images:
@@ -14,6 +15,13 @@ cover: /img/1.jpg
 #   - tag1
 #   - tag2
 # nolastmod: true
+categories:
+  - ENG
+tags:
+  - Python
+  - Bash
+  - Linux
+  - C++
 draft: false
 ---
 

@@ -8,7 +8,7 @@ theme = "dream"
 
  copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work adopts <a rel="license" href=" Licensed under the http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>'
 
-# googleAnalytics = ""
+ googleAnalytics = "G-V65QMFR36Z"
 
 #disqusShortname = "irfanirshad"
 
@@ -66,7 +66,7 @@ github = "irfanirshad"
 
 siteStartYear = 2019
 
-favicon = "/favicon.ico"
+favicon = "/img/favicon1.ico"
 
 highlightjs = true
 #highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
