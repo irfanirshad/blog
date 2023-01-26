@@ -1,7 +1,7 @@
 ---
 title: Build a Chrome Extension with Figwheel Main1
 date: 2021-01-12T23:54:31+08:00
-author: g1eny0ung
+author: 1rfan
 avatar: /img/1.jpg
 cover: /img/default4.jpg
 images:

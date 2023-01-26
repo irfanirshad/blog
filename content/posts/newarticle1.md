@@ -2,7 +2,7 @@
 title: search2
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
-author: Irfan
+author: 1rfan
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 # images:

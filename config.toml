@@ -3,7 +3,7 @@ baseurl = ""
 relativeURLs = "True"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Irfan's blog"
+title = "1rfan's blog"
 theme = "dream"
 
  copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work adopts <a rel="license" href=" Licensed under the http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>'
@@ -20,24 +20,24 @@ enableRobotsTXT = true
 
 [params]
 background = "#f7f7f7"
-backgroundImage = "/img/bg.jpg"
+backgroundImage = "/img/otter.gif"
 linkColor = "seagreen"
 enableSearch = true
 
 # dark mode
 #defaultDark = true
 backgroundDark = "#333"
-backgroundImageDark = "/img/bg_night.jpg"
+backgroundImageDark = "/img/boatnight.gif"
 darkLinkColor = "darkseagreen"
 #darkNav = true
 #dark404 = true
 
 images = [""]
 
-author = "IrfanIrshad"
-description = "Irfan's Blog"
+author = "1rfan"
+description = "1rfan's Blog"
 avatar = "/img/ss.jpeg"
-headerTitle = "Irfan's blog"
+headerTitle = "1rfan's blog"
 motto = "Balance in all things"
 # maxTags = 5
 # categoriesLimitInHeader = 6 # deprecated

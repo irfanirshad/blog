@@ -6,7 +6,7 @@ draft: false
 type : "page"
 ---
 
-**Backend Developer | Python/C++/Bash**
+**Software Engineer | Python/C++/Bash**
 
 <!--more-->
 I've completed my B.Tech in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad, India.

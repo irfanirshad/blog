@@ -2,7 +2,7 @@
 title: Portfolio
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
-author: Irfan
+author: 1rfan
 avatar: /img/ss.jpeg
 # authorlink: https://author.site
 # images:
@@ -10,14 +10,14 @@ avatar: /img/ss.jpeg
 cover: /img/1.jpg
 # categories:
 #   - category1
-# tags:
-#   - tag1
-#   - tag2
+tags:
+  - Portfolio
+  - Github
 # nolastmod: true
 draft: false
 ---
 
-Cut out summary from your post content here.
+this will have summary of portfolio which will contain links to other projects which have screenshots & gifs with it and with github links
 
 <!--more-->
 
