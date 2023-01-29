@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: My projects
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
 author: 1rfan
@@ -11,38 +11,52 @@ cover: /img/1.jpg
 # categories:
 #   - category1
 tags:
-  - Portfolio
-  - Github
+  - Ecommerce
+  - Node.js
+  - Projects
+  - Django
 # nolastmod: true
 draft: false
 ---
 
-this will have summary of portfolio which will contain links to other projects which have screenshots & gifs with it and with github links
+This post here contains working links to most of my public projects. 
 
 <!--more-->
 
-## Before starting0
+
+Before we start, this is some header content before deliving deep.
+Ever wanted to open a pet store? Ever wondered what would happen if you went another route. 
+
+Here's me delving deep into each and every possible route you would've/coud've taken with detailed explanation along the way... Buckle up tight and enjoy the journey...
+
+## How to build professional Django REST APIs.
+
+Yes. With API documentation & Docker .
 
 The remaining content of your post [GitHub Colorful Contributions](https://github.com/g1eny0ung/github-colorful-contributions-graph)
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of ofofof
+The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
+
+## Lightweight Pet Store Node.js with Sanity CMS
+I wanted to try out sanity for myself so I thought why not? I had a well-meaning friend who was having troubles with his old website where the UI was messed up so naturally, he was looking for a change and had been bugging me for several weeks now about a new solution. 
+
+Overall I'd say it was a good job considering it only took me a few hours to set up the whole thing.
+I've hosted a demo project on heroku where you can have a look at the [result yourself here.](https://google.com)
 
 
-
-
-your post.The remaining content of your post.The remaining content of your post.
-
-## Before starting1
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The
-
-remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
-
-## Before starting3
-The remaining content of your post.The remainingThe remaining content of your post.
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
+## Light Heavyweight Pet Store with Pure Django Templates & AWS
+The pet store
 
 ![Scenario 1: Across columns](/img/default2.jpg)
 
-## Before starting2
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post. content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
-The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.
+## Heavyweight Pet Store Node.js, Express & React.js with Custom Admin App
+The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post.The remaining content of your post. 
+
+## Automation I: Modern Day Wizard. Speeding up your life with Pythonic Powers.
+
+scraping MB, 99 acres and sorting data into xlsx files took almost 70% of our time.
+Increased the company's lead generation by 80%.
+
+## Automation II: Making my team member's lives easier
+After scraping, comes the cleansing and renaming of files. Unfornately(for me), none of my team members knew anything about python. Fortunately(for them), I took care of their problems as soon as I realized where their time was being spent on. 
+GUI photo resizer tool which had additional features:
+  1) Renaming

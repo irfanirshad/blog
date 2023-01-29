@@ -1,5 +1,5 @@
 ---
-title: What is Caching?
+title: What in the world is a CAP theorem?
 date: 2021-01-12T23:54:31+08:00
 author: 1rfan
 avatar: /img/ss.jpeg
@@ -14,9 +14,13 @@ tags:
   - Distributed Systems
 ---
 
+CAP theorem also known as Brewer’s theorem was introduced by computer scientist Eric Brewer at Symposium on Principles of Distributed computing in 2000.
+
+<!--more-->
+
 ## CAP. Open it up a bit.
 
-CAP theorem also known as Brewer’s theorem was introduced by computer scientist Eric Brewer at Symposium on Principles of Distributed computing in 2000. In CAP theorem, C stands for Consistency, A stands for Availability and P stands for Partition tolerance.
+In CAP theorem, C stands for Consistency, A stands for Availability and P stands for Partition tolerance.
 
 **Consistency**: Every read receives the most recent writes or an error. For consistency, any read operation that begins after a write operation completes must return that value, or the result of a later write operation.
 
