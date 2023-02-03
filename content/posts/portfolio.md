@@ -1,5 +1,5 @@
 ---
-title: My projects
+title: My work
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
 author: 1rfan
@@ -7,7 +7,7 @@ avatar: /img/ss.jpeg
 # authorlink: https://author.site
 # images:
 #   - default2.jpg
-cover: /img/1.jpg
+cover: /img/mywork.png
 # categories:
 #   - category1
 tags:
@@ -56,7 +56,10 @@ The remaining content of your post.The remaining content of your post.The remain
 scraping MB, 99 acres and sorting data into xlsx files took almost 70% of our time.
 Increased the company's lead generation by 80%.
 
-## Automation II: Making my team member's lives easier
+## Automation II: Making my life easier by making my team's life easier
+
+I had just been offered a micro-promotion after our Senior DevOps left us to go to Canada to start a new life. 
+
 After scraping, comes the cleansing and renaming of files. Unfornately(for me), none of my team members knew anything about python. Fortunately(for them), I took care of their problems as soon as I realized where their time was being spent on. 
 GUI photo resizer tool which had additional features:
   1) Renaming

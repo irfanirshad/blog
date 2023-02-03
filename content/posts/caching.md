@@ -9,18 +9,17 @@ images:
 categories:
   - ENG
 tags:
-  - System Design
   - Cloud
   - Distributed Systems
 ---
 
-You like computers? You like software? You're probably already secretly married to Bash then..
+_The Phantom of the Opera is there, inside my mind._
 
 <!--more-->
 
 ## Caching? Huh?
 
-Caching is the process of storing data in the cache. The cache is a temporary storage area relatively small in size with faster access time. 
+Caching is the process of storing data in the cache. The cache is a temporary storage area relatively small in size with faster access time.
 
 Whenever your application has to read data it should first try to retrieve the data from the cache. Only if it’s not found in the cache then it should try to get the data from the data store. Caching improves latency and can reduce the load on your servers and databases.
 
@@ -46,12 +45,11 @@ There are two patterns of caching the data in application caching.
 <a href="https://wiki.bash-hackers.org/scripting/basics" target="_blank">Click here</a> for a quick read-up on its basics incase you're not already familiar with bash.
 
 > Note that bash is not the only kind of shell. There are other shells out there as well.
-This diagram helps give a picture of the history of bash:
+> This diagram helps give a picture of the history of bash:
 
 <br/>
 
-Just dropping <a href="https://mywiki.wooledge.org/BashFAQ" target="_blank">this FAQ link</a> here for those questions I can't answer because I have disabled comments functionality on this site lol. 
-
+Just dropping <a href="https://mywiki.wooledge.org/BashFAQ" target="_blank">this FAQ link</a> here for those questions I can't answer because I have disabled comments functionality on this site lol.
 
 ## Patterns of Caching
 
@@ -62,8 +60,8 @@ If it’s in the cache return it from there otherwise fetch the result from the 
 <br/>
 
 ➋ Caching Objects: In objects caching pattern, you store the data as an object as you do in your application code (classes, instances, etc.). Your class can assemble a dataset from your database and then you can store the instance of the class or the assembled dataset in the cache. Some examples of objects that can be cached are User Sessions, Fully Rendered Web pages, Activity Streams, User Graph Data.
-</ul>
 
+</ul>
 
 Since cache data is stored in RAM and RAM size is more limited than disk. For better utilization of the caches, we need to update the caches in an optimized way so that it stores more relevant data and remove others. This is called cache-invalidation. Cache invalidation is a difficult problem, there is additional complexity associated with when to update the cache.
 
@@ -76,6 +74,7 @@ There are different cache update strategy. You should determine the one which wo
 This is the most commonly used cache update strategy in applications. In this update strategy, cache sits aside and an application talks to cache and data store directly. It is also known as lazy-loading. Application logic first checks in the cache before hitting the database. It is mostly used with an application with read-heavy workloads.
 
 Application does following:
+
 <ul>
 <li>Application checks for the data in the cache
 <li>If data is found in the cache then it’s a cache-hit. Data is read from the cache and returned to the client.
@@ -83,13 +82,14 @@ Application does following:
 </ul>
 
 <b>Pros</b>
+
 <ul>
 <li>An application can work even after the cache failure but the performance will be degraded as it has to fetch all data from the data store.
 <li>Due to lazy loading only requested data is cached which avoids filling up the cache with data which is not requested.
 </ul>
 
-
 <b>Cons</b>
+
 <ul>
 <li>Each cache-miss is three trips, which can cause a noticeable delay.
 <li>In cache-aside strategy, data is directly written to a data store which can make cache data stale. This can be mitigated by using a TTL to force to update the data after TTL expires or by using a cache update strategy like write through.
@@ -109,7 +109,6 @@ Although read-through and cache-aside are very similar there are two key differe
 ➋Unlike cache-aside, the data model in the read-through cache cannot be different than that of the database.
 
 Read-through cache also works best for read-heavy workloads. It has similar pros and cons as cache-aside cache strategy.
-
 
 Then we can go to the next step.
 
@@ -137,7 +136,6 @@ Data in the cache is not stale.
 
 - Most data written to cache might never be read. This can be minimized with TTL.
 
-
 ## Write-Behind (Write-Back)
 
 In write-behind, the application does the following:
@@ -154,7 +152,6 @@ It is used in an application having write-heavy workloads.
 
 •There is a possibility of data loss if cache goes down before data is written to the data store.
 •A write-behind cache is difficult to implement compared to other cache update strategy.
-
 
 ## Refresh-ahead
 

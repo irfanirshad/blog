@@ -4,6 +4,7 @@ date: 2021-01-12T23:54:31+08:00
 author: 1rfan
 avatar: /img/1.jpg
 cover: /img/default4.jpg
+draft: true
 images:
   - /img/build-a-chrome-extension-with-figwheel-main.png
 categories:
@@ -12,7 +13,7 @@ categories:
 #   - Chrome Extension
 ---
 
-Bring a smooth experience to the development of Chrome Extension.
+Bring a smooth experience to the development of Chrome Extension. sample
 
 <!--more-->
 

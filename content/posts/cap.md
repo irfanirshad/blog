@@ -9,16 +9,17 @@ images:
 categories:
   - ENG
 tags:
-  - System Design
   - Cloud
   - Distributed Systems
 ---
 
-CAP theorem also known as Brewer’s theorem was introduced by computer scientist Eric Brewer at Symposium on Principles of Distributed computing in 2000.
+_All paths are one.No Cap._
 
 <!--more-->
 
 ## CAP. Open it up a bit.
+
+CAP theorem also known as Brewer’s theorem was introduced by computer scientist Eric Brewer at Symposium on Principles of Distributed computing in 2000.
 
 In CAP theorem, C stands for Consistency, A stands for Availability and P stands for Partition tolerance.
 

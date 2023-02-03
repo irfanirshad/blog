@@ -1,12 +1,12 @@
 ---
-title: About Me
+title: About Me2s
 date: 2022-12-16T10:03:04+05:30
 lastmod: 2022-12-16T10:03:04+05:30
 draft: false
 type : "page"
 ---
 
-**Software Engineer | Python/C++/Bash**
+**Software Engineer || Python.Javascript.Shell**
 
 <!--more-->
 I've completed my B.Tech in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad, India.

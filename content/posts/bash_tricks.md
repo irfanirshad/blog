@@ -13,7 +13,7 @@ tags:
   - github
 ---
 
-You like computers? You like software? You're probably already secretly married to Bash then..
+_Like computers? Like to write software? You're probably already secretly married to Bash then..._
 
 <!--more-->
 
