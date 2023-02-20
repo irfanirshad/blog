@@ -1,5 +1,5 @@
 ---
-title: My work
+title: My work(TBD)
 date: 2021-12-16T10:09:04+05:30
 lastmod: 2022-12-16T10:09:04+05:30
 author: 1rfan
@@ -19,7 +19,7 @@ tags:
 draft: false
 ---
 
-<b>This post here contains working links to most of my public projects.</b>
+<b>This post here contains working links to most of my public projects.(In construction)</b>
 
 <!--more-->
 
@@ -61,8 +61,9 @@ The remaining content of your post.The remaining content of your post.The remain
 
 ## Automation I: Modern Day Wizard. Speeding up your life with Pythonic Powers.
 
-scraping MB, 99 acres and sorting data into xlsx files took almost 70% of our time.
+Scraping MB, 99 acres and sorting data into xlsx files took almost 70% of our time.
 Increased the company's lead generation by 80%.
+Here's how I did it.
 
 ## Automation II: Making my life easier by making my team's life easier
 
@@ -71,4 +72,5 @@ I had just been offered a micro-promotion after our Senior DevOps left us to go 
 After scraping, comes the cleansing and renaming of files. Unfornately(for me), none of my team members knew anything about python. Fortunately(for them), I took care of their problems as soon as I realized where their time was being spent on.
 GUI photo resizer tool which had additional features:
 
-1. Renaming
+1. Bulk Renaming of Images
+2. Bulk Compressing of Images and cropping it
