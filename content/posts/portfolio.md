@@ -53,7 +53,7 @@ LittlePaws Pet Store
 
 ![Scenario 1: Across columns](/img/landing_page_lp.png)
 
-This project is available [on github](https://github.com/irfanirshad/django-aws-ecom/) . Take a look there if you wish to know more of the tech specs used in this project.
+This project is available [on github](https://github.com/irfanirshad/django-ecom-aws) . Take a look there if you wish to know more of the tech specs used in this project.
 
 ## Heavyweight Pet Store Node.js, Express & React.js with Custom Admin App
 
