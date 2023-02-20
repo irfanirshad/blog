@@ -11,6 +11,7 @@ categories:
 tags:
   - bash
   - github
+draft: true
 ---
 
 _Pleased to meet ya.  Likewise I'm sure._

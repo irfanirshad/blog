@@ -19,7 +19,7 @@ tags:
 draft: false
 ---
 
-This post here contains working links to most of my public projects.
+<b>This post here contains working links to most of my public projects.</b>
 
 <!--more-->
 
@@ -47,11 +47,13 @@ Overall I'd say it was a good job considering it only took me a few hours to set
 I've hosted a demo project on Vercel where you can have a look at the [result for yourself here.](https://sanity-spa.vercel.app/)
 
 
-## Light Heavyweight Pet Store with Pure Django Templates & AWS
+## Light Heavyweight LittlePaws Pet Store with Pure Django Templates & AWS
 
-The pet store
+LittlePaws Pet Store
 
-![Scenario 1: Across columns](/img/default2.jpg)
+![Scenario 1: Across columns](/img/landing_page_lp.png)
+
+This project is available [on github](https://github.com/irfanirshad/django-aws-ecom/) . Take a look there if you wish to know more of the tech specs used in this project.
 
 ## Heavyweight Pet Store Node.js, Express & React.js with Custom Admin App
 
