@@ -1,5 +1,5 @@
 canonifyURLs = true
-baseurl = ""
+baseurl = "https://irfanirshad.live"
 relativeURLs = "True"
 languageCode = "en"
 defaultContentLanguage = "en"
