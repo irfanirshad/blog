@@ -1,7 +1,7 @@
 ---
 title: whoami
-date: 2022-12-16T10:03:04+05:30
-lastmod: 2022-12-16T10:03:04+05:30
+date: 2024-11-16T10:03:04+05:30
+lastmod: 2024-11-16T10:03:04+05:30
 draft: false
 type : "page"
 ---
@@ -9,15 +9,21 @@ type : "page"
 **Electronics ~ Software = Consumer Electronics**
 
 <!--more-->
-I am a software engineer working in a commercial real estate firm in Chennai. 
+I work as a software engineer at Infor in the Core DataMesh Platform Team. 
 
-I'm into all kinds of consumer electronic products which have little or a lot of software on them. So naturally, I spend most of my time levelling myself in this realm of hardware + software combination.
+The platform handles complex data pipelines, supporting over 300 features for efficient ETL processes, data integration and real-time analytics. My work primarily focuses on building scalable, high-performance data workflows.
+
+In my personal life, I'm into all kinds of consumer electronic products which have little or a lot of software on them. So naturally, I find myself spending time with these gadgets, be it a soldering iron or reverse engineering with Ida. 
+
+As of late, I find myself getting better with Machine learning techniques and applying it to the market.
 
 **Professional background details:**
 <br/>
-I've completed my B.Tech and M.Tech in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad, India.
-
-I'm looking to explore career options in IT sector and be a part of a progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization.
+I hold B.Tech and M.Tech degrees in Electronics and Communication Engineering from the Indian Institute of Information Technology, Allahabad (IIIT-A), India.
 
 
-_Feel free to have a look around here_.
+I am eager to advance my career in the IT sector with a focus on becoming a Software Architect. I aim to design and build highly scalable, distributed, and fault-tolerant systems that can handle large loads efficiently. I am looking to join an innovative organization where I can leverage my experience in data engineering and system design to tackle complex challenges, while continually expanding my knowledge and honing my expertise in modern software architecture.
+
+
+
+<!-- _Feel free to have a look around here_. -->

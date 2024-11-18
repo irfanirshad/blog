@@ -6,8 +6,8 @@ draft: false
 type : "page"
 ---
 ![img](/img/mywork.png)
-_<a href="/posts/portfolio/">Some of my previous work</a>_
+<!-- _<a href="/posts/portfolio/">Some of my previous work</a>_ -->
 
-<a href="/others/irfan_2023.pdf" target="_blank">My resume</a>
+<a href="/others/irfan_resume.pdf" target="_blank">My resume</a>
 <!--more-->
 
