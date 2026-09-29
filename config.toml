@@ -3,10 +3,10 @@ baseurl = "https://systemdesigntalks.blog"
 relativeURLs = "True"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "1rfan's blog"
+title = "System Design Talks"
 theme = "dream"
 
- copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work adopts <a rel="license" href=" Licensed under the http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>'
+ copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Noncommercial-ShareAlike 4.0 International License</a>'
 
  googleAnalytics = "G-V65QMFR36Z"
 
@@ -34,10 +34,10 @@ darkLinkColor = "darkseagreen"
 
 images = [""]
 
-author = "1rfan"
-description = "1rfan's Blog"
+author = "Irfan Irshad"
+description = "Irfan Irshad writes about distributed systems, data pipelines and modern engineering."
 avatar = "/img/ss.jpeg"
-headerTitle = "1rfan's blog"
+headerTitle = "System Design Talks"
 motto = "Balance in all things"
 # maxTags = 5
 # categoriesLimitInHeader = 6 # deprecated
@@ -59,7 +59,7 @@ email = "irfanirshad003@gmail.com"
 # facebook = ""
 # instagram = ""
 # mastodon = ""
-# linkedin = ""
+linkedin = "irfanirshad"
 github = "irfanirshad"
 # stackoverflow = ""
 # codepen = ""
@@ -90,7 +90,7 @@ showSummaryCoverInPost = true
 # hideBackSocialLinks = true
 
 [params.advanced]
-    customCSS = ["css/custom.css"]
+  #   customCSS = ["css/custom.css"]
   #   customJSBefore = []
   #   customJS = []
 
