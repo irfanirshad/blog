@@ -1,0 +1,8 @@
+# Netlify's build image has no Hugo unless HUGO_VERSION says which one to install.
+# 0.108.0 is the version this site is built and tested with.
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.108.0"
