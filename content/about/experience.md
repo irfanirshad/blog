@@ -7,9 +7,7 @@ draft: false
 type : "page"
 ---
 
-**Software Engineer, Infor**<br>
-Aug 2023 – present · Hyderabad<br>
-Data pipeline orchestration and workflow automation with Node.js, Python, Kafka and Spark on AWS EKS.
+I work at **Infor** in Hyderabad as a software engineer.
 
 **Alumnus of IIIT Allahabad**<br>
 Jhalwa gang
